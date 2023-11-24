@@ -3,7 +3,7 @@
 The first thing to do is to clone the repository:
 
 ```sh
-$ git https://github.com/nithindaniel1/blog-backend.git
+$ git clone https://github.com/nithindaniel1/blog-backend.git
 $ cd blog-backend
 ```
 
